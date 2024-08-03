@@ -1,0 +1,51 @@
+header {
+    background-color: #083793;
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+    font-size: 12px;
+  }
+
+  footer {
+    background-color: #083793;
+    color: white;
+    text-align: left;
+    justify-content: center;
+    padding-left: 50%;
+    padding-right: 50%;
+    font-size: 08px;
+   
+  }
+
+  .dflex {
+    display: flex;
+
+  }
+
+.linkbotao {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.botaolinklink {
+    background-color: rgb(0, 0, 80);
+    flex: 1;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #F6F6F6;
+    font-family: "Montserrat", sans-serif;
+    max-width: 280px;
+}
+
+img {
+    width: 40vw;
+    max-width: 600px; 
+    height: auto;
+    margin-top: 20px;
+    
+}
